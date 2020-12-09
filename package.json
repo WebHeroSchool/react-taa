@@ -1,0 +1,22 @@
+{
+  "name": "react-taa",
+  "version": "1.0.0",
+  "description": "Final project by React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sayHello": "echo \"Hello\"",
+    "makeDir": "mkdir build",
+    "rmDir": "rmdir build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/react-taa.git"
+  },
+  "author": "Anton Tkachuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/react-taa/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/react-taa#readme"
+}
